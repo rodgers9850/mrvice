@@ -4,9 +4,9 @@
 profile = {
     "name"     : "YOUR NAME",
     "role"     : "Full Stack Python Developer",
-    "exp"      : "X+ years",
+    "exp"      : "4+ years",
     "domain"   : "Python · Django · Vue.js · ERP · AI Integration",
-    "os_work"  : "YOUR_PROJECT — Xk+ ⭐ — one of GitHub's most-starred Python repos",
+    "os_work"  : "EAGIS — Xk+ ⭐ — one of GitHub's most-starred Python repos",
     "connect"  : "Open to interesting conversations → YOUR_WEBSITE",
 }
 ```
