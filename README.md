@@ -2,7 +2,7 @@
 
 ```python
 profile = {
-    "name"     : "YOUR NAME",
+    "name"     : "Rodgers",
     "role"     : "Full Stack Python Developer",
     "exp"      : "4+ years",
     "domain"   : "Python · Django · Vue.js · ERP · AI Integration",
